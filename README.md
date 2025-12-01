@@ -10,7 +10,7 @@ PROJECT_ENDPOINT="your_project_endpoint"
 MODEL_DEPLOYMENT="your_model_deployment"
 ```
 
-replace the your_project_endpoint placeholder with the endpoint for your project (copied from the project Overview page in the Azure AI Foundry portal), and the your_model_deployment placeholder with the name you assigned to your Phi-4-multimodal-instruct model deployment.
+replace the your_project_endpoint placeholder with the endpoint for your project (copy from the project Overview page in the Azure AI Foundry portal), and the your_model_deployment placeholder with the name you assigned to your Phi-4-multimodal-instruct model deployment.
 
 install the libraries in islolated env, use the below commands
 
